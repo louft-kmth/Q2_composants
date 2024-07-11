@@ -19,11 +19,11 @@ div {
 }
 
 #bottom-left {
-  bottom: 0;
+  top: 52em;
   left: 0;
 }
 
 #bottom-right {
-  bottom: 0;
+  top: 52em;
   right: 0;
 }
